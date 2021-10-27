@@ -1,7 +1,7 @@
 <h3>Hey , I'm Sourav Singh </h3>
 <br/>
-<!--  https://giphy.com/gifs/coding-zOvBKUUEERdNm -->
-<img align="right" height="250" width="400" alt="IMG" src="https://giphy.com/gifs/coding-zOvBKUUEERdNm" />
+<!--  https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif -->
+<img align="right" height="250" width="400" alt="IMG" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darklordhere" alt="darklordhere" /> </p>
