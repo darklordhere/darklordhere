@@ -72,7 +72,7 @@
 
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
+<img hight="340" width="440" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
 
 </br>
 </br>
