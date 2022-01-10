@@ -1,16 +1,19 @@
 # Konnichiwa 👋
 
-### < / I'm Sourav Singh , AI & Cloud Computing Enthusiast >&nbsp;
+### < / I'm Sourav Singh , AI & Cloud Computing Enthusiast >&nbsp;&nbsp;
 
-&nbsp;
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)&nbsp;&nbsp;
 
 </br>
 
 ---
 # About ME 💬 :
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">&nbsp;&nbsp;
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
+
+
 
 ### - Experience in :
 - ✨  Api Development
@@ -18,6 +21,7 @@
 - ✨  Competitive Programming
 - ♦️  Creating Projects&nbsp;
 
+</br>
 
 ### - Hobbies : 
 - ✨  Reading Thoughtful Books
@@ -26,7 +30,7 @@
 
 </br>
 </br>
-</br>
+
 
 
 ---
@@ -58,9 +62,11 @@
 
 ---
 ## Where to Find Me 🔍:
+</br>
+
 
 <p align="left">
- </br>
+
 
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
@@ -73,10 +79,18 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Animefree)](https://www.youtube.com/c/Animefree)
 [![Gmail Badge](https://img.shields.io/badge/-SS96496636958@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SS96496636958@gmail.com)](mailto:kanna6501@gmail.com)
 
-</p>
 
 </br>
+
+</p>
 </br>
+</br>
+</br>&nbsp;
+
+
+
+
+
 
 ---
 ## Find me elsewhere 📢
