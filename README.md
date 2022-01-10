@@ -93,11 +93,11 @@
 # Find me elsewhere 📢
 <p align="left">
   <a href="https://www.codechef.com/users/souravsingh49">
-    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/blob/main/assets/icons/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/souravsingh49/">
-    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/blob/main/assets/icons/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/souravsingh49">
