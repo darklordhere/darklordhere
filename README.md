@@ -61,7 +61,7 @@
 
 
 ---
-## Where to Find Me 🔍:
+## Social Media Handles 🔍:
 </br>
 
 
