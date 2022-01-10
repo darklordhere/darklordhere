@@ -11,7 +11,7 @@
 # About ME 💬 :
 
 
-<img hight="340" width="440" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-<img hight="340" width="440" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
+<img hight="300" width="400" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
 
 </br>
 </br>
