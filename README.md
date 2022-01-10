@@ -1,22 +1,23 @@
 # Konnichiwa 👋
 
-### - I'm Sourav Singh , AI & Cloud Computing Enthusiast.
+### < / I'm Sourav Singh , AI & Cloud Computing Enthusiast >&nbsp;
 
+&nbsp;
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 </br>
-</br>
-</br>
 
+---
 # About ME 💬 :
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">&nbsp;&nbsp;
 
 ### - Experience in :
 - ✨  Api Development
 - ♦️  Digital Marketing
 - ✨  Competitive Programming
-- ♦️  Creating Projects
+- ♦️  Creating Projects&nbsp;
+
 
 ### - Hobbies : 
 - ✨  Reading Thoughtful Books
@@ -28,8 +29,8 @@
 </br>
 
 
-
-# Languages & Tools 👨‍💻 🛠:
+---
+## Languages & Tools 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -53,20 +54,17 @@
 </br>
 </p>
 </br>
-</br>
-</br>
 
 
-
-# Where to Find Me 🔍:
+---
+## Where to Find Me 🔍:
 
 <p align="left">
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">
+<img hight="320" width="450" align="right" alt="GIF" src="https://telegra.ph/file/6878fa3d795ee02b3dc9e.jpg">&nbsp;
 
-</br>
 </br>
 </br>
 
@@ -75,22 +73,14 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Animefree)](https://www.youtube.com/c/Animefree)
 [![Gmail Badge](https://img.shields.io/badge/-SS96496636958@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SS96496636958@gmail.com)](mailto:kanna6501@gmail.com)
 
-
 </p>
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
 
 ---
-# Find me elsewhere 📢
+## Find me elsewhere 📢
+</br>
 <p align="left">
   <a href="https://www.codechef.com/users/souravsingh49">
     <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -103,12 +93,8 @@
   <a href="https://www.hackerrank.com/souravsingh49">
     <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codeforces.com/users/souravsingh49">
-    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
 </p>
-
+</br>
 
 
 
