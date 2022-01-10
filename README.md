@@ -11,7 +11,7 @@
 # About ME 💬 :
 
 
-<img hight="350" width="450" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
+<img hight="340" width="440" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
 
 
 
