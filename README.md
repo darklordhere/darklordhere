@@ -23,10 +23,13 @@
 
 </br>
 
-### - Hobbies : 
+### - Investing free time in : 
 - ✨  Reading Thoughtful Books
-- ♦️  Watching Anime / Movies
+- ♦️  Watching Anime / Movies & Tv Series
 - ✨  Editing For Fun
+- ♦️  Management of 2 Communities Containing 
+      over 150+ Channels & 3 Groups in Telegram
+  > [ Position - Founder ]
 
 </br>
 </br>
