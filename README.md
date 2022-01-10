@@ -77,7 +77,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SouravSingh49-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-singh-8b727a226)](https://www.linkedin.com/in/sourav-singh-8b727a226)
 [![Instagram Badge](https://img.shields.io/badge/-Sourav.Singh49-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Sourav.Singh49/)](https://instagram.com/Sourav.Singh49)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Animefree)](https://www.youtube.com/c/Animefree)
-[![Gmail Badge](https://img.shields.io/badge/-SS96496636958@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SS96496636958@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-SS96496636958@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SS96496636958@gmail.com)](mailto:ss96496636958@gmail.com)
 
 
 </br>
