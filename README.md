@@ -96,19 +96,7 @@
 
 
 
-
-
----
-## Find me elsewhere 📢
-</br>
-<p align="left">
-  
-  <a href="https://leetcode.com/souravsingh49/">
-    <img src="https://raw.githubusercontent.com/darklordhere/darklordhere/main/assets/icons/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-</p>
-</br>
+-----------
 
 
 
@@ -117,4 +105,10 @@
 
 
 
-*************
+
+
+
+
+
+
+
