@@ -1,43 +1,15 @@
 # Konnichiwa 👋
 
-### < / I'm Sourav Singh , AI & Cloud Computing Enthusiast >&nbsp;&nbsp;
+### <  I'm Sourav Singh  >&nbsp;&nbsp;
+### [ Visit Portfolio Website ](https://souravsingh.dorik.io)
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)&nbsp;&nbsp;
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </br>
 
 ---
 
 [![@souravsingh49's Holopin board](https://holopin.io/api/user/board?user=souravsingh49)](https://www.holopin.io/@souravsingh49)
-
----
-# About ME 💬 :
-
-
-<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/darklordhere/darklordhere/blob/main/assets/1936.gif">
-
-
-
-### - Experience in :
-- ✨  Api Development
-- ♦️  Digital Marketing
-- ✨  Competitive Programming
-- ♦️  Creating Projects&nbsp;
-
-</br>
-
-### - Investing free time in : 
-- ✨  Reading Thoughtful Books
-- ♦️  Watching Anime / Movies & Tv Series
-- ✨  Editing For Fun
-- ♦️  Management of 2 Communities Containing 
-      over 150+ Channels & 3 Groups in Telegram
-  > [ Position - Founder ]
-
-</br>
-</br>
-
-
 
 ---
 ## Languages & Tools 👨‍💻 🛠:
@@ -57,7 +29,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 
 
@@ -97,15 +68,6 @@
 
 
 -----------
-
-
-
-
-
-
-
-
-
 
 
 
